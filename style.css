@@ -1,0 +1,124 @@
+* {
+  margin: 0 100px;
+  padding: 0;
+}
+body {
+  margin: 0 auto;
+  padding: 0;
+  background: #ebebeb; 
+  min-width: 950px;
+  max-width: 1000px;
+}
+section {
+  background: #f9faf8;
+  margin: 9px 60px 10px 60px;
+  padding: 30px 0 10px 0;
+  border-radius: 5px;
+  border: 1px solid #cfcdcf;
+  box-shadow: inset 3px 3px 3px 30px rgba(240, 237, 237, 0.1);
+}
+
+
+h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 32px;
+  letter-spacing: -1px;
+  text-align: center;
+}
+h2 {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 24px;
+  letter-spacing: -1px;
+  text-align: center;
+
+}
+h3 {
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h4 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  padding: 15px 0;
+}
+a {
+  margin: 10px;
+  margin-top: 15px;
+  text-decoration: none;
+  background: #f9faf8;
+  color: black;
+  font-size: 18px;
+  font-family: font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  text-align: justify;
+  font-size: 18px;
+  font-family: font-family: 'Noto Sans', sans-serif;
+  word-spacing: 1px;
+  line-height: 20px;
+  font-weight: 500;
+  margin: 20px 30px 20px 30px;
+}
+
+ul {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+
+.container {
+  background: #ebeaeb;
+}
+
+.logo {
+  width: 250px;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.apie-mus-img {
+  width: 590px;
+  height: 300px;
+  object-fit: cover;
+  object-fit: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.food {
+   width: 300px;
+  height: 200px;
+  object-fit:scale-down;
+  object-fit: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.map {
+  display: block;
+  margin: 0 auto;
+  width: 590px;
+  height: 400px;  
+}
+
+.kaina {
+  margin-top: 0;
+  text-align: center;
+}
+
+
+
+
